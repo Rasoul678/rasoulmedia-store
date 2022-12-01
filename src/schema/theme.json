@@ -1,0 +1,62 @@
+{
+  "data": {
+    "dark": {
+      "name": "dark",
+      "pallets": {
+        "p1": {
+          "name": "yellow",
+          "mainColor": "#F9C160",
+          "colors": ["#191919", "#343A41", "#F9C160", "#F9C160"],
+          "text": "#CCCCCC"
+        },
+        "p2": {
+          "name": "red",
+          "mainColor": "#bd4b4b",
+          "colors": ["#191919", "#343A41", "#bd4b4b", "#EEEEEE"],
+          "text": "#CCCCCC"
+        },
+        "p3": {
+          "name": "green",
+          "mainColor": "#50A989",
+          "colors": ["#191919", "#343A41", "#50A989", "#FF8BA0"],
+          "text": "#CCCCCC"
+        },
+        "p4": {
+          "name": "blue",
+          "mainColor": "#00ADB5",
+          "colors": ["#191919", "#343A41", "#00ADB5", "#00FFF5"],
+          "text": "#CCCCCC"
+        }
+      }
+    },
+    "light": {
+      "name": "light",
+      "pallets": {
+        "p1": {
+          "name": "yellow",
+          "mainColor": "#ff8343",
+          "colors": ["#FFF", "#393E46", "#ff8343", "#F9C160"],
+          "text": "#333333"
+        },
+        "p2": {
+          "name": "red",
+          "mainColor": "#bd4b4b",
+          "colors": ["#FFF", "#393E46", "#bd4b4b", "#EEEEEE"],
+          "text": "#333333"
+        },
+        "p3": {
+          "name": "green",
+          "mainColor": "#50A989",
+          "colors": ["#FFF", "#393E46", "#50A989", "#FF8BA0"],
+          "text": "#333333"
+        },
+        "p4": {
+          "name": "blue",
+          "mainColor": "#5078c0",
+          "colors": ["#FFF", "#393E46", "#5078c0", "#00FFF5"],
+          "text": "#333333"
+        }
+      }
+    }
+  }
+}
