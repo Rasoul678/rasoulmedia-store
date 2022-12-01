@@ -5,6 +5,7 @@ module.exports = {
   filename: "remoteEntry.js",
   remotes: {
     store: "store@http://localhost:3010/remoteEntry.js",
+    editor: "editor@http://localhost:3020/remoteEntry.js",
   },
   exposes: {
     "./store": "./src/state/store",
