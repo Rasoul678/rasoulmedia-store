@@ -1,28 +1,30 @@
 {
   "files": {
-    "main.js": "/rasoulmedia-store/static/js/main.d9d8ec78.js",
+    "main.js": "/rasoulmedia-store/static/js/main.a10f8da6.js",
     "store.js": "/rasoulmedia-store/remoteEntry.js",
-    "static/css/304.8f3f6f41.chunk.css": "/rasoulmedia-store/static/css/304.8f3f6f41.chunk.css",
-    "static/js/304.1bcc6df9.chunk.js": "/rasoulmedia-store/static/js/304.1bcc6df9.chunk.js",
-    "static/js/781.fbd7dc7c.chunk.js": "/rasoulmedia-store/static/js/781.fbd7dc7c.chunk.js",
+    "static/css/302.188fe738.chunk.css": "/rasoulmedia-store/static/css/302.188fe738.chunk.css",
+    "static/js/302.68e80975.chunk.js": "/rasoulmedia-store/static/js/302.68e80975.chunk.js",
     "static/js/791.c27146ca.chunk.js": "/rasoulmedia-store/static/js/791.c27146ca.chunk.js",
-    "static/js/913.6167e88b.chunk.js": "/rasoulmedia-store/static/js/913.6167e88b.chunk.js",
+    "static/js/346.849040c7.chunk.js": "/rasoulmedia-store/static/js/346.849040c7.chunk.js",
     "static/js/164.6eb9cfef.chunk.js": "/rasoulmedia-store/static/js/164.6eb9cfef.chunk.js",
     "static/js/813.fe097c06.chunk.js": "/rasoulmedia-store/static/js/813.fe097c06.chunk.js",
+    "static/js/781.fbd7dc7c.chunk.js": "/rasoulmedia-store/static/js/781.fbd7dc7c.chunk.js",
     "static/js/316.039593a2.chunk.js": "/rasoulmedia-store/static/js/316.039593a2.chunk.js",
+    "static/js/842.0f4d0bac.chunk.js": "/rasoulmedia-store/static/js/842.0f4d0bac.chunk.js",
     "index.html": "/rasoulmedia-store/index.html",
-    "main.d9d8ec78.js.map": "/rasoulmedia-store/static/js/main.d9d8ec78.js.map",
+    "main.a10f8da6.js.map": "/rasoulmedia-store/static/js/main.a10f8da6.js.map",
     "remoteEntry.js.map": "/rasoulmedia-store/remoteEntry.js.map",
-    "304.8f3f6f41.chunk.css.map": "/rasoulmedia-store/static/css/304.8f3f6f41.chunk.css.map",
-    "304.1bcc6df9.chunk.js.map": "/rasoulmedia-store/static/js/304.1bcc6df9.chunk.js.map",
-    "781.fbd7dc7c.chunk.js.map": "/rasoulmedia-store/static/js/781.fbd7dc7c.chunk.js.map",
+    "302.188fe738.chunk.css.map": "/rasoulmedia-store/static/css/302.188fe738.chunk.css.map",
+    "302.68e80975.chunk.js.map": "/rasoulmedia-store/static/js/302.68e80975.chunk.js.map",
     "791.c27146ca.chunk.js.map": "/rasoulmedia-store/static/js/791.c27146ca.chunk.js.map",
-    "913.6167e88b.chunk.js.map": "/rasoulmedia-store/static/js/913.6167e88b.chunk.js.map",
+    "346.849040c7.chunk.js.map": "/rasoulmedia-store/static/js/346.849040c7.chunk.js.map",
     "164.6eb9cfef.chunk.js.map": "/rasoulmedia-store/static/js/164.6eb9cfef.chunk.js.map",
     "813.fe097c06.chunk.js.map": "/rasoulmedia-store/static/js/813.fe097c06.chunk.js.map",
-    "316.039593a2.chunk.js.map": "/rasoulmedia-store/static/js/316.039593a2.chunk.js.map"
+    "781.fbd7dc7c.chunk.js.map": "/rasoulmedia-store/static/js/781.fbd7dc7c.chunk.js.map",
+    "316.039593a2.chunk.js.map": "/rasoulmedia-store/static/js/316.039593a2.chunk.js.map",
+    "842.0f4d0bac.chunk.js.map": "/rasoulmedia-store/static/js/842.0f4d0bac.chunk.js.map"
   },
   "entrypoints": [
-    "static/js/main.d9d8ec78.js"
+    "static/js/main.a10f8da6.js"
   ]
 }
