@@ -4,8 +4,8 @@ module.exports = {
   name: "store",
   filename: "remoteEntry.js",
   remotes: {
-    store: "store@http://localhost:3010/remoteEntry.js",
-    editor: "editor@http://localhost:3020/remoteEntry.js",
+    store: "store@https://rasoul678.github.io/rasoulmedia-store/remoteEntry.js",
+    editor: "editor@https://rasoul678.github.io/rasoulmedia-editor/remoteEntry.js",
   },
   exposes: {
     "./store": "./src/state/store",

@@ -2,6 +2,7 @@
   "name": "rasoulmedia-store",
   "version": "1.7.1",
   "private": true,
+  "homepage": "https://rasoul678.github.io/rasoulmedia-store/",
   "dependencies": {
     "@reduxjs/toolkit": "^1.9.1",
     "@testing-library/jest-dom": "^5.16.5",
@@ -45,6 +46,7 @@
   "devDependencies": {
     "@craco/craco": "^7.0.0",
     "@craco/types": "^7.0.0",
-    "craco-module-federation": "^1.1.0"
+    "craco-module-federation": "^1.1.0",
+    "gh-pages": "^4.0.0"
   }
 }
