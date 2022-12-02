@@ -27,12 +27,6 @@
     "deploy": "gh-pages -d build",
     "eject": "react-scripts eject"
   },
-  "type": "commonjs",
-  "exports": {
-    ".": "./index.js",
-    "./jsx-dev-runtime": "./jsx-dev-runtime.js",
-    "./jsx-runtime": "./jsx-runtime.js"
-  },
   "eslintConfig": {
     "extends": [
       "react-app",
