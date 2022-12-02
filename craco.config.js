@@ -1,6 +1,7 @@
 const cracoModuleFederation = require("craco-module-federation");
 
 module.exports = {
+  mode: "production",
   output: {
     publicPath: "https://rasoul678.github.io/rasoulmedia-store/",
   },
@@ -12,10 +13,4 @@ module.exports = {
       plugin: cracoModuleFederation,
     },
   ],
-  resolve: {
-    alias: {
-      "react/jsx-dev-runtime": "react/jsx-dev-runtime.js",
-      "react/jsx-runtime": "react/jsx-runtime.js",
-    },
-  },
 };
