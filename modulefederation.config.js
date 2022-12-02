@@ -8,7 +8,7 @@ module.exports = {
     editor: "editor@https://rasoul678.github.io/rasoulmedia-editor/remoteEntry.js",
   },
   exposes: {
-    "./store": "./src/state/store",
+    "./store": "./src/state/store.tsx",
   },
   shared: {
     ...deps,
